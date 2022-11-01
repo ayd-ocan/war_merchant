@@ -72,5 +72,4 @@ class Merchant:
         self.third_faction.end_turn()
         print(f"Your revenue is : {self.revenue}")
 
-m = Merchant(10,20)
 
